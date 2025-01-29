@@ -1,1 +1,3 @@
-# Analisis-Efectividad-de-Farmaco-Osteoanabolico
+# Análisis de la Efectividad de un Fármaco Osteoanabólico
+El ensayo clínico aporta datos de tres estudios realizados en periodos de tiempo diferentes. En cada estudio, se testean distintas dosis del fármaco durante distintos periodos de tiempo. En total se analiza una población de 134 individuos y se analizan las variables: peso inicial, intermedio y final, el espacio trabecular (Tb.Sp), el número de trabéculas (Tb.N), la densidad de minerales en hueso (BMD), la cantidad de minerales en hueso (BMC), la longitud del hueso, la GPSurface y la GPVolume.
+Se requiere hacer un análisis exploratorio de datos para responder en un informe final a las preguntas: ¿cuál es el efecto del peso en la administración del fármaco? ¿Y de la dosis? ¿Y del tiempo? ¿Qué dosis administrada y durante cuánto tiempo es la más efectiva en el individuo?
